@@ -1,0 +1,8 @@
+{
+  "name": "auto-token-license-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor de licencas do Auto Token",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node license_server.js" }
+}
